@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dados / modelos / artefatos
+data/
+datasets/
+results/
+checkpoints/
+models/
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.ckpt
+*.npz
+*.npy
+*.zip
+*.tar
+*.tar.gz
+*.wav
+*.mp3
+*.flac
+*.onnx
+
+# Sistema / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
